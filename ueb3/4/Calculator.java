@@ -9,7 +9,7 @@ public class Calculator {
         }
     };
 
-    BinaryOperation divde = new BinaryOperation() {
+    BinaryOperation divide = new BinaryOperation() {
         @Override
         public int apply(int a, int b) {
             return a / b;
